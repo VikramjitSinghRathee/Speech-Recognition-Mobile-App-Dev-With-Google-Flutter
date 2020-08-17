@@ -1,16 +1,7 @@
-# speech_recog_to_text_flutter
+# Speech-Recognition-Mobile-App-Dev-With-Google-Flutter
 
-speech recognition to text app
+## The app recognizes speech and converts it into text that is displayed to the user.
 
-## Getting Started
+Certain words, when spoken, are highlighted in the text. The app is developed using Flutter and targets Android and iOS mobile/tablet platforms.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter is the Google's UI toolkit for crafting natively compiled applications from a single codebase.
